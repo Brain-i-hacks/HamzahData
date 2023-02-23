@@ -1,10 +1,15 @@
 # HamzahData
 Analysis of Hamzah's EEG stuff
 
+
+
+
 ## CSV files
 The csv files were separated in 4 groups:
 - Adaptive condition first : first trial (Adaptive)
 - Adaptive condition first: second trial (Random)
+
+### Warning! If you used these files before 23-2-2023 they were a copy of the same file! Now it should be fixed however
 - Random condition first : first trial (Random)
 - Random condition first: second trial (Adaptive)
 

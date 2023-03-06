@@ -1,31 +1,31 @@
 # HamzahData
 Analysis of Hamzah's EEG stuff
 
-#Raw EEG cleaning
-## Step 1
+## Raw EEG cleaning
+### Step 1
 Notch filter 50 hz
 
-## Step 2
+### Step 2
 
 Basic FIR filter 
 Low = 0.5 Hz
 High = 30 Hz
 
-## Step 3
+### Step 3
 Clean data by tools > clean Rawdata and ASR
 
-## Step 4
+### Step 4
 Manual artefact removal by setting window to 30 seconds
 
-## Step 5
+### Step 5
 
 Removed baseline
 
-## Step 6
+### Step 6
 
 Rereferenced to average
 
-## Step 7 
+### Step 7 
 
 ICA
 

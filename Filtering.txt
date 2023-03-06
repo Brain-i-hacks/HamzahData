@@ -1,0 +1,19 @@
+#Step 1
+
+Check the signal in all electrodes. If one electrode is giving a bunch of noise, or is not good, remove it and interpolate.
+
+#Step 2
+
+Rereferenced to average
+
+#Step 3
+
+Removed baseline
+
+#Step 4
+
+Basic FIR filter 
+Low = 0.5 Hz
+High = 30 Hz
+
+#Step 5 ICA
